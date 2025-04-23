@@ -1,0 +1,10 @@
+C:\Users\Yaren\source\repos\ListBoxArasıVeriAktarma\ListBoxArasıVeriAktarma\bin\Debug\ListBoxArasıVeriAktarma.exe.config
+C:\Users\Yaren\source\repos\ListBoxArasıVeriAktarma\ListBoxArasıVeriAktarma\bin\Debug\ListBoxArasıVeriAktarma.exe
+C:\Users\Yaren\source\repos\ListBoxArasıVeriAktarma\ListBoxArasıVeriAktarma\bin\Debug\ListBoxArasıVeriAktarma.pdb
+C:\Users\Yaren\source\repos\ListBoxArasıVeriAktarma\ListBoxArasıVeriAktarma\obj\Debug\ListBoxArasıVeriAktarma.csproj.AssemblyReference.cache
+C:\Users\Yaren\source\repos\ListBoxArasıVeriAktarma\ListBoxArasıVeriAktarma\obj\Debug\ListBoxArasıVeriAktarma.Form1.resources
+C:\Users\Yaren\source\repos\ListBoxArasıVeriAktarma\ListBoxArasıVeriAktarma\obj\Debug\ListBoxArasıVeriAktarma.Properties.Resources.resources
+C:\Users\Yaren\source\repos\ListBoxArasıVeriAktarma\ListBoxArasıVeriAktarma\obj\Debug\ListBoxArasıVeriAktarma.csproj.GenerateResource.cache
+C:\Users\Yaren\source\repos\ListBoxArasıVeriAktarma\ListBoxArasıVeriAktarma\obj\Debug\ListBoxArasıVeriAktarma.csproj.CoreCompileInputs.cache
+C:\Users\Yaren\source\repos\ListBoxArasıVeriAktarma\ListBoxArasıVeriAktarma\obj\Debug\ListBoxArasıVeriAktarma.exe
+C:\Users\Yaren\source\repos\ListBoxArasıVeriAktarma\ListBoxArasıVeriAktarma\obj\Debug\ListBoxArasıVeriAktarma.pdb
